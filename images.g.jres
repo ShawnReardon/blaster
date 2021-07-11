@@ -1,0 +1,17 @@
+{
+    "Y|_0Pb}kO{ZhDD0TiYi8": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8P//AAAAAABv1t0P//AP8Gb2P/01Pw9VYtbd/TNT81BlZtZd8z/zVRVmZj/f/f/wZmFm///fDwBvFmZmD/AAAPD//28PAAAAAABvbw8AAAAAAPDwAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "princess"
+    },
+    "image1": {
+        "data": "hwQQABAAAAAAVVVVVVUFAFBVVVVVVVUFVVVVVVVVVVUF8P//AAAAUABv1t0P//AP8Gb2P/01Pw9VYtbd/TNT81BlZtZd8z/zVRVmZj/f/f/wZmFm///fDwBvFmZmD/AAAPD//28PAAAAAABvbw8AAAAAAPDwAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "displayName": "princessParry"
+    },
+    "*": {
+        "mimeType": "image/x-mkcd-f4",
+        "dataEncoding": "base64",
+        "namespace": "myImages"
+    }
+}
